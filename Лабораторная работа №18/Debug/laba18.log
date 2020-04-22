@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\1\source\repos\Project1\laba18\main.cpp(100,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\Project1\laba18\main.cpp(107,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\Project1\laba18\main.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\Project1\laba18\main.cpp(175,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba18.vcxproj -> C:\Users\1\source\repos\Project1\Debug\laba18.exe
