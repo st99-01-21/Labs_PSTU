@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\1\source\repos\Project1\laba19\main.cpp(74,7): warning C4101: variant: неиспользованная локальная переменная
+  laba19.vcxproj -> C:\Users\1\source\repos\Project1\Debug\laba19.exe
