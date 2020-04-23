@@ -1,0 +1,8 @@
+﻿  EMPLOYEE.cpp
+  main.cpp
+C:\Users\1\source\repos\Project1\laba21.2\main.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Object.cpp
+  Person.cpp
+  Vector.cpp
+  Создание кода...
+  laba21.2.vcxproj -> C:\Users\1\source\repos\Project1\Debug\laba21.2.exe
