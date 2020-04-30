@@ -1,0 +1,9 @@
+﻿  Dialog.cpp
+  Employee.cpp
+  main.cpp
+C:\Users\1\source\repos\laba25\laba25\main.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Object.cpp
+  Person.cpp
+  Tree.cpp
+  Создание кода...
+  laba25.vcxproj -> C:\Users\1\source\repos\laba25\Debug\laba25.exe
