@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\1\source\repos\laba24\laba24\list.h(74): warning C4715: list<float>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\1\source\repos\laba24\laba24\list.h(74): warning C4715: list<int>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\1\source\repos\laba24\laba24\list.h(74): warning C4715: list<double>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\1\source\repos\laba24\laba24\list.h(74): warning C4715: list<Money>::operator[]: значение возвращается не при всех путях выполнения
+  laba24.vcxproj -> C:\Users\1\source\repos\laba24\Debug\laba24.exe
