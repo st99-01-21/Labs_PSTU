@@ -1,0 +1,6 @@
+﻿  main1.cpp
+C:\Users\1\source\repos\laba28\laba28\main1.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba28\laba28\main1.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba28\laba28\main1.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba28\laba28\main1.cpp(62,20): warning C4018: <: несоответствие типов со знаком и без знака
+  laba28.vcxproj -> C:\Users\1\source\repos\laba28\Debug\laba28.1.exe
