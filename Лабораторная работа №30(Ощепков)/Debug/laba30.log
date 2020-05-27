@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\1\source\repos\laba30\laba30\main.cpp(96,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(106,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(189,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(190,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(203,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(204,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(221,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(222,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(235,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(236,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\source\repos\laba30\laba30\main.cpp(353,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba30\laba30\main.cpp(455,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba30\laba30\main.cpp(466,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba30\laba30\main.cpp(470,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba30\laba30\main.cpp(486,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\source\repos\laba30\laba30\main.cpp(530,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  laba30.vcxproj -> C:\Users\1\source\repos\laba30\Debug\laba30.exe
